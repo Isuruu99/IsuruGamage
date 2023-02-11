@@ -1,3 +1,5 @@
+![19362653](https://user-images.githubusercontent.com/124339609/218238701-aef4825e-342b-4601-8e51-1bf203c56883.jpg)
+
 <h1 align="center">Hi 👋, I'm Isuru udayanga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
